@@ -1,4 +1,4 @@
-<picture>
+. <picture>
     <source media="(prefers-color-scheme: dark)" srcset="/.github/assets/dark_theme_banner.png">
     <source media="(prefers-color-scheme: light)" srcset="/.github/assets/light_theme_banner.png">
     <img
